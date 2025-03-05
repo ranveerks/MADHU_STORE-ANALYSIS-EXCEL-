@@ -59,6 +59,11 @@ This project highlights how businesses can utilize data analytics in e-commerce 
 
     ○  Automating data updates for a dynamic dashboard.
 
+   #Dashboard
+   ![Madu_Store_Annual_Report](https://github.com/user-attachments/assets/4a160390-535f-4d1b-81f2-9a068de3f7fe)
+
+   
+
 📢 Feedback & Suggestions
 
     Would love to hear your thoughts! Feel free to connect and share your feedback 😊
